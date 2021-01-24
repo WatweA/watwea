@@ -12,6 +12,10 @@
     - [Quantitative Developer Intern](#quantitative-developer-intern-at-ubs---chicago-il)
 4. [Projects](#projects)
     - [Sectionwise Song Classification](#sectionwise-song-classification)
+    - [US Wage Data Analysis](#us-wage-data-analysis)
+    - [VGA Display Program](#vga-display-program)
+    - [Animation Player and Editor](#animation-player-and-editor)
+    - [Barbershop DBMS](#barbershop-dbms)
 5. [Interests and Other](#interests-and-other)
 
 
@@ -75,7 +79,7 @@ _May 2019 - Jun. 2019_
 *	**_Languages and Software_**: Java, Java Swing, IntelliJ IDE, Junit testing
 * Designed animator with the following capabilities reads SVG or proprietary format text files, plays animation at desired speed, GUI to edit animation, outputs SVG or text representation of animation
 
-## Barbershop BDMS
+## Barbershop DBMS
 *	**_Languages and Software_**: Python, MySQL, PyCharm IDE, MySQL Workbench
 * Designed relational database and command-line frontend to track employees and customer data, scheduling, and inventory for simple hair salon; anonymous data sourced from local hair salons
 
