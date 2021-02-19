@@ -1,6 +1,6 @@
 # Aaditya Watwe
 
-**Availability**: _May 2021_ - _Dec. 2021_
+**Availability**: _Aug. 2021_ - _Dec. 2021_
 
 **Email**: aaditya.watwe@gmail.com
 
