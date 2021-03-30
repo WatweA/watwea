@@ -25,7 +25,7 @@
 ###### Candidate for Bachelor of Science in Computer Science
 _Sept. 2018_ to _May 2022_
 
-GPA: **3.956/4.0**
+GPA: **3.964/4.0**
 
 ##### Coursework:
 >Artificial Intelligence, Object-Oriented Design, Machine Learning and Data Mining, Software Development, Algorithms and Data, Natural Language Processing, Database Design, Computer Systems, Foundations of Data Science, Mathematics of Data Models, Information Visualization for Business, Theory of Computation, Embedded Design, Discrete Structures, Computer Science Fundamentals 1 & 2
@@ -45,9 +45,13 @@ GPA: **3.956/4.0**
 
 # Experience
 
+## _Incoming_ Software Engineer Intern at Wolverine Trading - Chicago, IL
+_Jun. 2021_ to _Aug. 2020_
+*   Will develop and deploy custom C++ and C# trading applications
+
 ## Quantitative Developer Intern at UBS - Chicago, IL
 _Jun. 2020_ to _Dec. 2020_
-*	Developed and implemented a novel foreign currency trading indicator which integrates machine-learning, time-series analysis, cross-sectional analysis, and statistical modeling – resulting in 4.5% increase in annualized return and 40% reduction in drawdowns versus benchmark
+*   Developed and implemented a novel foreign currency trading indicator which integrates machine-learning, time-series analysis, cross-sectional analysis, and statistical modeling – resulting in 4.5% increase in annualized return and 40% reduction in drawdowns versus benchmark
     * **_Languages and Software_**: R language, SQL Server, R Studio, Bloomberg Terminal
 *	Created optimized R-language libraries for generic time-series data munging, automating the generation of excel reports for series of returns, and for applying given machine-learning algorithms over time-series data with rolling training and testing windows
     * **_Languages and Software_**: R language, SQL Server, R Studio
