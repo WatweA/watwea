@@ -9,9 +9,9 @@
     - [Northeastern University](#northeastern-university---boston-ma)
 2. [Skills](#Skills)
 3. [Experience](#experience)
-    - [Perception Engineer Intern](#perception-engineering-intern-at-anduril-industries---irvine-ca)
-    - [Software Engineer Intern](#software-engineer-intern-at-wolverine-trading---chicago-il)
-    - [Quantitative Developer Intern](#quantitative-developer-intern-at-ubs---chicago-il)
+    - [Perception Engineer Intern](#perception-engineering-intern-at-anduril-industries--irvine-ca)
+    - [Software Engineer Intern](#software-engineer-intern-at-wolverine-trading--chicago-il)
+    - [Quantitative Developer Intern](#quantitative-developer-intern-at-ubs--chicago-il)
 4. [Projects](#projects)
     - [Sectionwise Song Classification](#sectionwise-song-classification)
     - [US Wage Data Analysis](#us-wage-data-analysis)
@@ -62,7 +62,7 @@ _Jun. 2021_ to _Aug. 2021_
 *   Collaborated to write a Wireshark dissector for the Nasdaq SQF protocol to parse TCP network data and generate a human-readable output for debugging and monitoring purposes
     * **_Languages and Software_**: Lua, C++, Wireshark
 
-## Quantitative Developer Intern at UBS - Chicago, IL
+## Quantitative Developer Intern at UBS – Chicago, IL
 _Jun. 2020_ to _Dec. 2020_
 *   Developed and implemented a novel foreign currency trading indicator which integrates machine-learning, time-series analysis, cross-sectional analysis, and statistical modeling – resulting in 4.5% increase in annualized return and 40% reduction in drawdowns versus benchmark
     * **_Languages and Software_**: R language, SQL Server, R Studio, Bloomberg Terminal
