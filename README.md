@@ -9,7 +9,7 @@
     - [Northeastern University](#northeastern-university---boston-ma)
 2. [Skills](#Skills)
 3. [Experience](#experience)
-    - [Perception Engineer Intern](#perception-engineer-intern-at-anduril-industries---chicago-il)
+    - [Perception Engineer Intern](#perception-engineering-intern-at-anduril-industries---irvine-ca)
     - [Software Engineer Intern](#software-engineer-intern-at-wolverine-trading---chicago-il)
     - [Quantitative Developer Intern](#quantitative-developer-intern-at-ubs---chicago-il)
 4. [Projects](#projects)
