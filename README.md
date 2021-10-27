@@ -13,6 +13,9 @@
     - [Software Engineer Intern](#software-engineer-intern-at-wolverine-trading--chicago-il)
     - [Quantitative Developer Intern](#quantitative-developer-intern-at-ubs--chicago-il)
 4. [Projects](#projects)
+    - [Pairs-Trading Strategy with Recurrent Neural Networks](#pairs-trading-strategy-with-recurrent-neural-networks)
+    - [SNARL - SNARL is Not A Rogue-Like](#snarl---snarl-is-not-a-rogue-like)
+    - [Long Term Market Prediction](#long-term-market-prediction)
     - [Sectionwise Song Classification](#sectionwise-song-classification)
     - [US Wage Data Analysis](#us-wage-data-analysis)
     - [VGA Display Program](#vga-display-program)
@@ -81,7 +84,7 @@ _Mar. 2021_ to _May. 2021_
 *   Ran pairwise analyses and regressions to find assets with highly correlated daily returns
 *   Developed a recurrent neural network to predict the future ratio of equity prices to inform pairs-trading
 
-## SNARL, SNARL is Not A Rogue-Like
+## SNARL - SNARL is Not A Rogue-Like
 _Feb. 2021_ to _May. 2021_
 *	**_Languages and Software_**: Java, Maven, TCP, Java Swing, IntelliJ IDE, Junit
 *   Developed a turn-based, roguelike game with TCP-based networking to support remote game clients, and a local game API to support a client GUI or AI plugins for in-game adversaries.
