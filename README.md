@@ -4,7 +4,7 @@
 
 **Email**: aaditya.watwe@gmail.com
 
-**LinkedIn**: [aadityawatwe](www.linkedin.com/in/aadityawatwe)
+**LinkedIn**: [aadityawatwe](https://www.linkedin.com/in/aadityawatwe)
 
 ## Table of Contents
 1. [Education](#education)
