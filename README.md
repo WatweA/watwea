@@ -4,6 +4,8 @@
 
 **Email**: aaditya.watwe@gmail.com
 
+**LinkedIn**: [aadityawatwe](www.linkedin.com/in/aadityawatwe)
+
 ## Table of Contents
 1. [Education](#education)
     - [Northeastern University](#northeastern-university---boston-ma)
